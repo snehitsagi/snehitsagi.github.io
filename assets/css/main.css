@@ -2259,6 +2259,8 @@
 			.panel > .intro.joined {
 				width: 18.5rem;
 				padding-right: 0;
+				margin-bottom: 3.5rem;
+				margin-left: 1rem;
 			}
 
 				.panel > .intro.joined + .inner {
@@ -2392,7 +2394,7 @@
 		}
 
 		.panel .span-2-25 {
-			width: 22.5rem;
+			width: 22.5rem;`
 		}
 
 		.panel .span-2-5 {
@@ -2405,6 +2407,10 @@
 
 		.panel .span-3 {
 			width: 30rem;
+		}
+
+		.panel .span-3-table {
+			width: 38rem;
 		}
 
 		.panel .span-3-25 {
@@ -2470,6 +2476,7 @@
 		.panel .span-7 {
 			width: 70rem;
 		}
+
 
 		.panel .span-7-25 {
 			width: 72.5rem;
@@ -2608,7 +2615,7 @@
 		}
 
 		.panel.small .span-5, .panel.medium .span-5, .panel.large .span-5 {
-			width: 50%;
+			width: 75%;
 		}
 
 		.panel.small .span-5-25, .panel.medium .span-5-25, .panel.large .span-5-25 {
@@ -3390,7 +3397,7 @@
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-			padding: 3.6rem 3.6rem 2rem 3.6rem ;
+			padding: 3rem 3rem 5rem 5rem ;
 		}
 
 		.panel.spotlight .image {
