@@ -2917,7 +2917,7 @@
 			}
 
 			.panel .span-3-table {
-				width: 100%;
+				width: 95%;
 			}
 
 			.panel .span-3-25 {
@@ -3085,7 +3085,7 @@
 				}
 
 				.panel.small .span-3-table, .panel.medium .span-3-table, .panel.large .span-3-table {
-					width: 100%;
+					width: 95%;
 				}
 
 				.panel.small .span-3-25, .panel.medium .span-3-25, .panel.large .span-3-25 {
