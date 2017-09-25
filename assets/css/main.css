@@ -2586,6 +2586,10 @@
 			width: 30%;
 		}
 
+		.panel.small .span-3-table, .panel.medium .span-3-table, .panel.large .span-3-table {
+			width: 30%;
+		}
+
 		.panel.small .span-3-25, .panel.medium .span-3-25, .panel.large .span-3-25 {
 			width: 32.5%;
 		}
@@ -2912,6 +2916,10 @@
 				width: 100%;
 			}
 
+			.panel .span-3-table {
+				width: 100%;
+			}
+
 			.panel .span-3-25 {
 				width: 100%;
 			}
@@ -3073,6 +3081,10 @@
 				}
 
 				.panel.small .span-3, .panel.medium .span-3, .panel.large .span-3 {
+					width: 100%;
+				}
+
+				.panel.small .span-3-table, .panel.medium .span-3-table, .panel.large .span-3-table {
 					width: 100%;
 				}
 
