@@ -2258,10 +2258,10 @@
 
 			.panel > .intro.joined {
 				width: 18.5rem;
-				padding-right: 3.5rem;
+				padding-right: 0;
 				margin-bottom: 3.5rem;
 				margin-left: 1rem;
-				margin-right: 2.625rem;
+				margin-right: 3.5rem;
 			}
 
 				.panel > .intro.joined + .inner {
