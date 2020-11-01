@@ -2261,12 +2261,11 @@
 				padding-right: 0;
 				margin-bottom: 3.5rem;
 				margin-left: 1rem;
-				margin-right: 1rem;
+				margin-right: 2.625rem;
 			}
 
 				.panel > .intro.joined + .inner {
 					padding-left: 2.625rem;
-					padding-right: 2.625rem;
 				}
 
 		.panel > .inner {
