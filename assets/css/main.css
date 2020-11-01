@@ -2257,16 +2257,16 @@
 		}
 
 			.panel > .intro.joined {
-				width: 21rem;
+				width: 21.125rem;
 				padding-right: 0rem;
 				margin-bottom: 3.5rem;
 				margin-left: 1rem;
-				margin-right: 4.5rem;
+				margin-right: 1rem;
 			}
 
 				.panel > .intro.joined + .inner {
 					padding-left: 2.625rem;
-					padding-left: 2.625rem;
+					padding-right: 2.625rem;
 				}
 
 		.panel > .inner {
